@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WYGOOD1314.GitHub.io</id>
     <title>wangyue</title>
-    <updated>2020-03-06T11:46:15.971Z</updated>
+    <updated>2020-03-06T12:03:53.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WYGOOD1314.GitHub.io"/>
     <link rel="self" href="https://WYGOOD1314.GitHub.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://WYGOOD1314.GitHub.io/images/avatar.png</logo>
     <icon>https://WYGOOD1314.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, wangyue</rights>
+    <entry>
+        <title type="html"><![CDATA[q]]></title>
+        <id>https://WYGOOD1314.GitHub.io/post/q/</id>
+        <link href="https://WYGOOD1314.GitHub.io/post/q/">
+        </link>
+        <updated>2020-03-06T11:52:30.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<audio controls>
+  <source src="优优 - 一曲相思.mp3" type="audio/mp3">
+</audio>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[55555]]></title>
         <id>https://WYGOOD1314.GitHub.io/post/55555/</id>
