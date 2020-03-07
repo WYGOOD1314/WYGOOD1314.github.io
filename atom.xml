@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WYGOOD1314.GitHub.io</id>
     <title>wangyue</title>
-    <updated>2020-03-07T06:11:06.489Z</updated>
+    <updated>2020-03-07T12:23:31.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WYGOOD1314.GitHub.io"/>
     <link rel="self" href="https://WYGOOD1314.GitHub.io/atom.xml"/>
@@ -11,57 +11,13 @@
     <icon>https://WYGOOD1314.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, wangyue</rights>
     <entry>
-        <title type="html"><![CDATA[图片]]></title>
-        <id>https://WYGOOD1314.GitHub.io/post/tu-pian/</id>
-        <link href="https://WYGOOD1314.GitHub.io/post/tu-pian/">
+        <title type="html"><![CDATA[音乐]]></title>
+        <id>https://WYGOOD1314.GitHub.io/post/yin-le/</id>
+        <link href="https://WYGOOD1314.GitHub.io/post/yin-le/">
         </link>
-        <updated>2020-03-07T06:06:19.000Z</updated>
-        <content type="html"><![CDATA[<p>🤡<img src="https://WYGOOD1314.GitHub.io/post-images/1583561192498.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://WYGOOD1314.GitHub.io/post/1/</id>
-        <link href="https://WYGOOD1314.GitHub.io/post/1/">
-        </link>
-        <updated>2020-03-06T13:10:44.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<!-- more -->
-<!-- more -->
-<!-- more -->
-<p><img src="https://WYGOOD1314.GitHub.io/post-images/1583500256391.jpg" alt="" loading="lazy"><br>
-<audio controls></p>
-  <source src="file:///C|/Users/Administrator/Desktop/优优 - 一曲相思.mp3" type="audio/mp3">
-</audio>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[z]]></title>
-        <id>https://WYGOOD1314.GitHub.io/post/z/</id>
-        <link href="https://WYGOOD1314.GitHub.io/post/z/">
-        </link>
-        <updated>2020-03-06T12:08:06.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>&lt;!doctype html&gt;</p>
-<html>
-<head>
-<meta charset="utf-8">
-<title>无标题文档</title>
-</head>
-<body>
-<audio controls>
-  <source src="file:///C|/Users/Administrator/Desktop/优优 - 一曲相思.mp3" type="audio/mp3">
-</audio>
-</body>
-</html>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[55555]]></title>
-        <id>https://WYGOOD1314.GitHub.io/post/55555/</id>
-        <link href="https://WYGOOD1314.GitHub.io/post/55555/">
-        </link>
-        <updated>2020-03-06T11:20:57.000Z</updated>
-        <content type="html"><![CDATA[<p>255555</p>
+        <updated>2020-03-07T12:21:53.000Z</updated>
+        <content type="html"><![CDATA[<p>😏<br>
+https://music.163.com/#/song?id=1313558186&amp;market=baiduqk</p>
 ]]></content>
     </entry>
 </feed>
